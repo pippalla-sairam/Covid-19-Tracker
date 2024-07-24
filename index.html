@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID-19 Data Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>COVID-19 Country Data</h1>
+            <p>Select a country to view the latest COVID-19 statistics.</p>
+        </header>
+        <main>
+            <select id="countryDropdown" class="dropdown">
+                <option value="">Select a country</option>
+            </select>
+            <div id="results" class="results">
+                <h2 id="countryName"></h2>
+                <p id="cases"></p>
+                <p id="deaths"></p>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
