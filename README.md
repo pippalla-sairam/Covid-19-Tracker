@@ -20,3 +20,5 @@ How to Use
 Clone the repository.
 Open index.html in a web browser.
 Select a country from the dropdown to view its COVID-19 statistics.
+
+https://sairam76.github.io/Covid-19-Tracker/
