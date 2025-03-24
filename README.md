@@ -14,7 +14,9 @@ Modern UI: Clean and visually appealing interface with a background image.
 **Technologies Used:**
 
 HTML5: Structure and layout of the webpage.
+
 CSS3: Styling for an attractive and responsive design.
+
 JavaScript: Dynamic content and API integration.
 
 **How to Use:**
