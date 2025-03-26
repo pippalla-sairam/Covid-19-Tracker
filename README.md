@@ -20,8 +20,8 @@ A web application that provides real-time COVID-19 statistics for different coun
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/covid19-tracker.git
-   cd covid19-tracker
+   git clone https://github.com/pippalla-sairam/Covid-19-Tracker.git
+   cd Covid-19-Tracker
    ```
 
 2. Open `index.html` in a browser.
