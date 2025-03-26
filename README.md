@@ -1,33 +1,26 @@
-# Covid-19-Tracker
+# COVID-19 Data Tracker
 
-**Description:**
+A web application that provides real-time COVID-19 statistics for different countries. Users can search for a country and view the number of confirmed cases, deaths, and recoveries.
 
-A web application that provides up-to-date COVID-19 statistics for countries worldwide. Users can select a country from a dropdown list to view the total number of COVID-19 cases and deaths.
+## Features
 
-**Features:**
+- Search for COVID-19 data by country.
+- Displays confirmed cases, deaths, and recoveries.
+- Interactive UI with a clean and responsive design.
+- Background image for better visual appeal.
+- Data fetched from a reliable API.
 
-Interactive Dropdown: Choose from a comprehensive list of countries.
+## Tech Stack
 
-Live Data: Fetches real-time COVID-19 statistics using the Disease.sh API.
+- **Frontend:** HTML, CSS, JavaScript
+- **API:** COVID-19 Data API
 
-Responsive Design: Ensures compatibility with various devices and screen sizes.
+## Installation
 
-Modern UI: Clean and visually appealing interface with a background image.
+1. Clone the repository:
 
-**Technologies Used:**
-
-HTML5: Structure and layout of the webpage.
-
-CSS3: Styling for an attractive and responsive design.
-
-JavaScript: Dynamic content and API integration.
-
-**How to Use:**
-
-Clone the repository.
-
-Open index.html in a web browser.
-
-Select a country from the dropdown to view its COVID-19 statistics.
+   ```sh
+   git clone https://github.com/your-username/covid19-tracker.git
+   cd covid19-tracker
 
 Live Preview: https://sairam76.github.io/Covid-19-Tracker/
