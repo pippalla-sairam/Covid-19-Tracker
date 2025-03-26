@@ -22,5 +22,23 @@ A web application that provides real-time COVID-19 statistics for different coun
    ```sh
    git clone https://github.com/your-username/covid19-tracker.git
    cd covid19-tracker
+   ```
+
+2. Open `index.html` in a browser.
+
+## Usage
+
+- Enter a country name in the search bar.
+- View real-time COVID-19 cases and deaths for the selected country.
+
+## Future Enhancements
+
+- Add charts for data visualization.
+- Implement a global COVID-19 statistics dashboard.
+- Improve UI/UX with animations.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit a pull request.
 
 Live Preview: https://sairam76.github.io/Covid-19-Tracker/
